@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-project(unqlite-boilerplate)
+project("unqlite-playground")
 
 set(unqlite_ROOT "P:/Downloads/cpp-libraries/unqlite-1.1.9/build/unqlite")
 
