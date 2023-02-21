@@ -1,2 +1,2 @@
-unqlite-boilerplate
-===================
+unqlite-playground
+==================
